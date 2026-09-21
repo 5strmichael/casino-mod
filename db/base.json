@@ -1,0 +1,78 @@
+{
+  "_id": "1fef29b536eff3a271b03137",
+  "availableInRaid": false,
+  "avatar": "/files/trader/avatar/bookie.jpg",
+  "balance_dol": 0,
+  "balance_eur": 0,
+  "balance_rub": 1000000000,
+  "buyer_up": false,
+  "currency": "RUB",
+  "customization_seller": false,
+  "discount": 0,
+  "discount_end": 0,
+  "gridHeight": 120,
+  "insurance": {
+    "availability": false,
+    "excluded_category": [],
+    "max_return_hour": 0,
+    "max_storage_time": 99,
+    "min_payment": 0,
+    "min_return_hour": 0
+  },
+  "isCanTransferItems": false,
+  "items_buy": {
+    "category": [],
+    "id_list": [
+      "7b80abe742d98bfa7cc63fd1",
+      "0e7eefd2ad6321ed7150f964",
+      "242b06d1ec5ac486d14f86cf",
+      "5ec8149e2030bb70ae785329",
+      "0b2e595a35ea3f39346c3fd2",
+      "8727c4ed91154d07c44b2497",
+      "0d3624033c9ce7d98a847133",
+      "e206dfcdf04d9a46eb6b4c05",
+      "41d5e1b89196684aa323c9c6"
+    ]
+  },
+  "items_buy_prohibited": {
+    "category": [],
+    "id_list": []
+  },
+  "location": "Back room, Streets of Tarkov",
+  "loyaltyLevels": [
+    {
+      "buy_price_coef": 0,
+      "exchange_price_coef": 0,
+      "heal_price_coef": 0,
+      "insurance_price_coef": 0,
+      "minLevel": 1,
+      "minSalesSum": 0,
+      "minStanding": 0,
+      "repair_price_coef": 0
+    }
+  ],
+  "medic": false,
+  "name": "The Bookie",
+  "nextResupply": 1615141448,
+  "nickname": "Bookie",
+  "prohibitedTransferableItems": {
+    "category": [],
+    "id_list": []
+  },
+  "repair": {
+    "availability": false,
+    "currency": "5449016a4bdc2d6f028b456f",
+    "currency_coefficient": 1,
+    "excluded_category": [],
+    "excluded_id_list": [],
+    "quality": "0"
+  },
+  "sell_category": [],
+  "sell_modifier_for_prohibited_items": 0,
+  "surname": " ",
+  "transferableItems": {
+    "category": [],
+    "id_list": []
+  },
+  "unlockedByDefault": true
+}
